@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: pynotify
+Version: 0.1.1
+Summary: Python decorator that notify via email (Gmail) the termination (and eventual stacktrace in case of failure) of a function
+Home-page: https://github.com/GiulioRossetti/pynotify
+Author: Giulio Rossetti
+Author-email: giulio.rossetti@gmail.com
+License: GNU General Public License v3 or later (GPLv3+)
+Description: UNKNOWN
+Keywords: decorator execution notifier email
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
