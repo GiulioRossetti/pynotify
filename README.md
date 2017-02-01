@@ -13,10 +13,10 @@ pip install pynotify
 
 ### Usage Example
 
-``` 
+``` python
 from pynotify import pynotify as pn
 
-@pn.ExecutionNotifierDecorator('your.email@gmail.com', 'your_password', ['recipient1@gmail.com', 'recipient2@gmail.com'])
+@pn.ExecutionNotifierDecorator('your.email@gmail.com', 'your_pwd', ['rcp1@gmail.com', 'rcp2@gmail.com'])
 def hello():
 	print "Hello world!"
 	
