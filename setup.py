@@ -15,7 +15,7 @@ __email__ = "giulio.rossetti@gmail.com"
 setup(name='pynotify',
       version='0.1.1',
       license='GNU General Public License v3 or later (GPLv3+)',
-      description='Python decorator that notify via email (Gmail) the termination '
+      description='Python decorator that notifies via email (Gmail) the termination '
                   '(and eventual stacktrace in case of failure) of a function',
       url='https://github.com/GiulioRossetti/pynotify',
       author='Giulio Rossetti',
